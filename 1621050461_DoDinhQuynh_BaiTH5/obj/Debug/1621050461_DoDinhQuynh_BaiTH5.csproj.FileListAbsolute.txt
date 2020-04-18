@@ -1,0 +1,166 @@
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\1621050455_DangDinhToan_BaiTH5.dll.config
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\1621050455_DangDinhToan_BaiTH5.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\1621050455_DangDinhToan_BaiTH5.pdb
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\csc.exe
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\csc.exe.config
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\csc.rsp
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\csi.exe
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\csi.exe.config
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\csi.rsp
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Console.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.Claims.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\vbc.exe
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\vbc.rsp
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\obj\Debug\1621050455_DangDinhToan_BaiTH5.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\obj\Debug\1621050455_DangDinhToan_BaiTH5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\obj\Debug\1621050455_DangDinhToan_BaiTH5.csproj.CopyComplete
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\obj\Debug\1621050455_DangDinhToan_BaiTH5.dll
+C:\Users\ASUS\source\repos\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\obj\Debug\1621050455_DangDinhToan_BaiTH5.pdb
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\1621050455_DangDinhToan_BaiTH5.dll.config
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\1621050455_DangDinhToan_BaiTH5.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\1621050455_DangDinhToan_BaiTH5.pdb
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\csc.exe
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\csc.exe.config
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\csc.rsp
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\csi.exe
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\csi.exe.config
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\csi.rsp
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.AppContext.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Console.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.IO.Compression.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.Claims.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.ValueTuple.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\vbc.exe
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\vbc.exe.config
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\vbc.rsp
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\VBCSCompiler.exe
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\obj\Debug\1621050455_DangDinhToan_BaiTH5.csprojAssemblyReference.cache
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\obj\Debug\1621050455_DangDinhToan_BaiTH5.csproj.CopyComplete
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\obj\Debug\1621050455_DangDinhToan_BaiTH5.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050455_DangDinhToan_BaiTH5\1621050455_DangDinhToan_BaiTH5\obj\Debug\1621050455_DangDinhToan_BaiTH5.pdb
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\obj\Debug\1621050461_DoDinhQuynh_BaiTH5.csprojAssemblyReference.cache
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\obj\Debug\1621050461_DoDinhQuynh_BaiTH5.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\obj\Debug\1621050461_DoDinhQuynh_BaiTH5.pdb
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\1621050461_DoDinhQuynh_BaiTH5.dll.config
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\1621050461_DoDinhQuynh_BaiTH5.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\1621050461_DoDinhQuynh_BaiTH5.pdb
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\csc.exe
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\csc.exe.config
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\csc.rsp
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\csi.exe
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\csi.exe.config
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\csi.rsp
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.AppContext.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Console.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.IO.Compression.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Security.Claims.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.ValueTuple.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\vbc.exe
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\vbc.exe.config
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\vbc.rsp
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\VBCSCompiler.exe
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sieut\OneDrive\Máy tính\1621050461_DoDinhQuynh_BaiTH5\1621050461_DoDinhQuynh_BaiTH5\obj\Debug\1621050461_DoDinhQuynh_BaiTH5.csproj.CopyComplete
